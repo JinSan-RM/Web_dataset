@@ -1,0 +1,8 @@
+/EX_Img/*
+/step1_SectionDectect/*
+/step2_HeaderClassification/*
+/step2_SectionClassification_for_detect/*
+/step3_ElementDetect/*
+/step3_Image_background_Classification/*
+/step3_OCRDATA/*
+/step3_swiperDetect/*
