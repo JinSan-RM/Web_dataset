@@ -1,28 +1,28 @@
 # Web_dataset
-웹페이지 분석을 위한 딥러닝 모델 학습과 구현에 관한 연구 논문에 사용된 데이터셋 모음
+A collection of datasets used in research on training and implementing deep learning models for web page analysis
 
 ## /root/step1_SectionDetect
-**(step1 학습 데이터)**
+**(step1 AI Section Detect Learning Data)**
 
 ## /root/step2_HeaderClassification
-**(step2 Header 학습데이터)**
+**(step2 Header Classification Learning Data)**
 
 ## /root/step2_SectionClassification_for_detect
-**(step2 TagCode 학습데이터)**
+**(step2 TagCode SectionClassification_for detect Learning Data)**
 
 ## /root/step3_SwiperDetect
-**(step3 swiper 학습데이터)**
+**(step3 Swiper Detect Learning Data)**
 
 ## /root/step3_ElementDetect
-**(step3 Element 학습데이터)**
+**(step3 Element Detect )**
 
 ## /root/step3_Image_background_classification
-**(step3 imageBackground 학습데이터)**
+**(step3 imageBackground Classification Learning Data)**
 
 ## /root/step3_OCRDATA
-**(step3 OCR 데이터)**
+**(step3 OCR Data)**
 
-## Data Image Label 현황
+## Data Image Label Current Status
 
 
 ```
@@ -65,10 +65,10 @@
         └─labels
 ```
 
-EX_Img안에는 학습 시 실제 레이블이 어떻게 쳐져있는지에 대한, 이미지 참고용 자료입니다.
+The EX_Img folder is an image reference material on how classical labels are placed during learning.
 
-각 폴더 안에는 실제 학습에 사용된 자료 전체 혹은 일부가 첨부 되어있습니다.
+All or part of the materials used for actual learning are attached to each folder.
 
-Git Hub에 업로드를 위해 .7z파일로 분할압축을 하였습니다. 7z.001 번을 클릭해서 압축해제하시면 됩니다.
+For allocation compression to .7z file for upload to Git Hub. You can decompress by clicking 7z.001.
 
-전체 git을 Clone 받아 압축 해제 후 원하시는 데이터를 확인하시면 될 것 같습니다.
+You can take the entire git and decompress it and check the data you want.
