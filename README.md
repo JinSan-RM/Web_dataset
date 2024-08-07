@@ -65,6 +65,8 @@ A collection of datasets used in research on training and implementing deep lear
         └─labels
 ```
 
+Description
+
 The EX_Img folder is an image reference material on how classical labels are placed during learning.
 
 All or part of the materials used for actual learning are attached to each folder.
